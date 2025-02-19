@@ -60,6 +60,6 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 For questions or feedback, contact:
 
-- **Your Name**
+- **Abhishek Chauhan**
 - Email: abhishekchauhan9036@gmail.com
 - GitHub: [AbhishekChauhan9036](https://github.com/AbhishekChauhan9036)
