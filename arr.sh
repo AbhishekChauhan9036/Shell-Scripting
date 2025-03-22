@@ -7,3 +7,11 @@ do
 	echo "Fruit: $fruit"
 done
 
+
+
+i=0
+while [ $i -lt ${#fruits[@]} ];
+do
+	echo "fruit: ${fruits[$i]}"
+	((i=i+1))
+done
